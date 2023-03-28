@@ -1,0 +1,42 @@
+<div>
+    <h2>{{dulieu.name}}</h2>
+    <br>
+    <button type="button" onclick="location.href = 'http://localhost:3000'">Về trang chủ</button>
+    <br>
+    <br>
+    {{#each dulieu.listQuestion}}
+    <div class="{{#if (checkDisplay this.name ../marker)}}no_display{{/if}}">
+        <div id="question" class="detail_cauhoi width_common">
+            <p class=" cauhoi_txt">{{this.name}}</p>
+            <p class="noidung_cauhoi">
+                {{this.content}}
+                {{#if (isNotNull this.image)}}
+                <br>
+                <img src={{this.image}}>
+                {{/if}}
+            </p>
+            <div class="width_common noidung_dapan">
+
+                {{#each this.answers}}
+                <ul>
+                    <label>
+                        <input class="answer_option" type="checkbox">
+                        <span>{{this}}</span>
+                    </label>
+                </ul>
+                {{/each}}
+
+            </div>
+        </div>
+        <br>
+        <br>
+        <div>
+            <button type="button" class="{{#if (isFirstQs this.name)}}no_display{{/if}}"
+                onclick="location.href = 'http://localhost:3000/{{../id}}/{{../preQs}}'">Câu trước</button>
+            <button type="button" class="{{#if (isLastQs this.name)}}no_display{{/if}}"
+                onclick="location.href = 'http://localhost:3000/{{../id}}/{{../nextQs}}'">Câu tiếp theo</button>
+        </div>
+    </div>
+    {{/each}}
+
+</div>

@@ -1,0 +1,12 @@
+.display {
+    display: block;
+}
+
+.no_display {
+    display: none;
+}
+
+.btnQs {
+    margin: 5px;
+    width: 80px;
+}
