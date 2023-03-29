@@ -13,6 +13,7 @@ app.engine('hbs', hbs.engine({
 app.set('view engine', 'hbs')
 app.set('views', path.join(__dirname, 'views'))
 app.use(express.static(path.join(__dirname, 'css')))
+app.use(express.static(path.join(__dirname, 'public')))
 // define sub expresion hbs
 Handlebars.registerHelper('isNotNull', function (value) {
     return value !== null;

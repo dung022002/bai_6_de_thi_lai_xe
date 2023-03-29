@@ -1,0 +1,360 @@
+{
+    "name": "Đề 2",
+    "listQuestion": [
+        {
+            "name": "Câu hỏi 1 :",
+            "content": "Khái niệm “đỗ xe” được hiểu như thế nào là đúng quy tắc giao thông? ",
+            "image": null,
+            "answers": [
+                "Là trạng thái đứng yên của phương tiện giao thông có giới hạn trong một khoảng thời gian cần thiết đủ để cho người lên, xuống phương tiện đó, xếp dỡ hàng hóa hoặc thực hiện công việc khác.",
+                "Là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian."
+            ]
+        },
+        {
+            "name": "Câu hỏi 2 :",
+            "content": "Khi lái xe trong khu đô thị và đông dân cư trừ các khu vực có biển cấm sử dụng còi, người lái xe được sử dụng còi như thế nào trong các trường hợp dưới đây? ",
+            "image": null,
+            "answers": [
+                "Từ 22 giờ đêm đến 5 giờ sáng.",
+                "Từ 5 giờ sáng đến 22 giờ tối.",
+                "Từ 23 giờ đêm đến 5 giờ sáng hôm sau."
+            ]
+        },
+        {
+            "name": "Câu hỏi 3 :",
+            "content": "Người có giấy phép lái xe mô tô hạng A1 được phép điều khiển loại xe nào dưới đây? ",
+            "image": null,
+            "answers": [
+                "Xe mô tô có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3.",
+                "Xe mô tô ba bánh dành cho người khuyết tật.",
+                "Cả ý 1 và ý 2."
+            ]
+        },
+        {
+            "name": "Câu hỏi 4 :",
+            "content": "Người có giấy phép lái xe mô tô hạng A2 được phép điều khiển loại xe nào dưới đây? ",
+            "image": null,
+            "answers": [
+                "Xe mô tô ba bánh.",
+                "Xe mô tô hai bánh có dung tích xi lanh từ 175 cm3 trở lên và các loại xe quy định cho giấy phép lái xe hạng A1.",
+                "Các loại máy kéo nhỏ có trọng tải đến 1.000 kg."
+            ]
+        },
+        {
+            "name": "Câu hỏi 5 :",
+            "content": "Khi muốn chuyển hướng, người lái xe phải thực hiện như thế nào để đảm bảo an toàn giao thông? ",
+            "image": null,
+            "answers": [
+                "Quan sát gương, ra tín hiệu chuyển hướng, quan sát an toàn và chuyển hướng.",
+                "Quan sát gương, giảm tốc độ, ra tín hiệu chuyển hướng, quan sát an toàn và chuyển hướng.",
+                "Quan sát gương, tăng tốc độ, ra tín hiệu và chuyển hướng."
+            ]
+        },
+        {
+            "name": "Câu hỏi 6 :",
+            "content": "Khi tránh xe đi ngược chiều, các xe phải nhường đường như thế nào là đúng quy tắc giao thông? ",
+            "image": null,
+            "answers": [
+                "Nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe kia đi.",
+                "Xe xuống dốc phải nhường đường cho xe đang lên dốc; xe nào có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật đi trước.",
+                "Xe lên dốc phải nhường đường cho xe xuống dốc; xe nào không có chướng ngại vật phía trước phải nhường đường cho xe có chướng ngại vật đi trước",
+                "Cả ý 1 và ý 2."
+            ]
+        },
+        {
+            "name": "Câu hỏi 7 :",
+            "content": "Xe ô tô kéo xe khác thế nào là đúng quy tắc giao thông? ",
+            "image": null,
+            "answers": [
+                "Được kéo theo một xe ô tô hoặc xe máy chuyên dùng khác khi xe này không tự chạy được và phải đảm bảo an toàn; xe được kéo phải có người điều khiển và hệ thống lái của xe đó phải còn hiệu lực; trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì xe kéo nhau phải nối bằng thanh nối cứng.",
+                "Được kéo theo một xe ô tô và xe máy chuyên dùng khác khi xe này không tự chạy được và phải đảm bảo an toàn; xe được kéo phải có người ngồi trên xe để kịp thời phát hiện các trường hợp mất an toàn.",
+                "Được kéo theo một xe ô tô và xe máy chuyên dùng khác khi xe này không tự chạy được và hệ thống phanh bị hỏng, xe kéo nhau phải nối bằng dây cáp có độ dài phù hợp."
+            ]
+        },
+        {
+            "name": "Câu hỏi 8 :",
+            "content": "Trên đường bộ (trừ đường cao tốc) trong khu vực đông dân cư, đường hai chiều không có dải phân cách giữa, xe mô tô hai bánh, ô tô chở người đến 30 chỗ tham gia giao thông với tốc độ tối đa cho phép là bao nhiêu? ",
+            "image": null,
+            "answers": [
+                "60 km/h.",
+                "50 km/h.",
+                "40 km/h."
+            ]
+        },
+        {
+            "name": "Câu hỏi 9 :",
+            "content": "Trên đường bộ ngoài khu vực đông dân cư, đường đôi có dải phân cách giữa (trừ đường cao tốc), loại xe nào tham gia giao thông với tốc độ tối đa cho phép là 80 km/h? ",
+            "image": null,
+            "answers": [
+                "Ô tô buýt; ô tô đầu kéo kéo sơ mi rơ moóc; ô tô chuyên dùng; xe mô tô.",
+                "Ô tô chở người trên 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải trên 3.500 kg (trừ ô tô xi téc).",
+                "Ô tô kéo rơ moóc, ô tô kéo xe khác, xe gắn máy.",
+                "Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải đến 3.500 kg."
+            ]
+        },
+        {
+            "name": "Câu hỏi 10 (điểm liệt):",
+            "content": "Hành vi đưa xe cơ giới, xe máy chuyên dùng không bảo đảm tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường vào tham gia giao thông đường bộ có bị nghiêm cấm hay không? ",
+            "image": null,
+            "answers": [
+                "Không nghiêm cấm.",
+                "Bị nghiêm cấm.",
+                "Bị nghiêm cấm tùy theo các tuyến đường.",
+                "Bị nghiêm cấm tuỳ theo loại xe."
+            ]
+        },
+        {
+            "name": "Câu hỏi 11 :",
+            "content": "Trong hoạt động vận tải khách, những hành vi nào dưới đây bị nghiêm cấm? ",
+            "image": null,
+            "answers": [
+                "Cạnh tranh nhau nhằm tăng lợi nhuận.",
+                "Giảm giá để thu hút khách.",
+                "Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách; bắt ép hành khách sử dụng dịch vụ ngoài ý muốn; xuống khách nhằm trốn tránh phát hiện xe chở quá số người quy định.",
+                "Tất cả các ý trên."
+            ]
+        },
+        {
+            "name": "Câu hỏi 12 :",
+            "content": "Người nhận hàng có các quyền gì dưới đây? ",
+            "image": null,
+            "answers": [
+                "Nhận và kiểm tra hàng hóa nhận được theo giấy vận chuyển hoặc chứng từ tương đương khác; yêu cầu người kinh doanh vận tải thanh toán chi phí phát sinh do giao hàng hóa chậm.",
+                "Yêu cầu hoặc thông báo cho người thuê vận tải để yêu cầu người lái xe bồi thường thiệt hại do mất mát, hư hỏng hàng hóa; nhận hàng hóa không theo giấy vận chuyển hoặc chứng từ tương đương khác.",
+                "Cả ý 1 và ý 2."
+            ]
+        },
+        {
+            "name": "Câu hỏi 13 :",
+            "content": "Khi xảy ra tai nạn giao thông, có người bị thương nghiêm trọng, người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì? ",
+            "image": null,
+            "answers": [
+                "Thực hiện sơ cứu ban đầu trong trường hợp khẩn cấp; thông báo vụ tai nạn đến cơ quan thi hành pháp luật.",
+                "Nhanh chóng lái xe gây tai nạn hoặc đi nhờ xe khác ra khỏi hiện trường vụ tai nạn.",
+                "Cả ý 1 và ý 2."
+            ]
+        },
+        {
+            "name": "Câu hỏi 14 :",
+            "content": "Khi tránh nhau trên đường hẹp, người lái xe cần phải chú ý những điểm nào để đảm bảo an toàn giao thông? ",
+            "image": null,
+            "answers": [
+                "Không nên đi cố vào đường hẹp; xe đi ở phía sườn núi nên dừng lại trước để nhường đường; khi dừng xe nhường đường phải đỗ ngay ngắn.",
+                "Trong khi tránh nhau không nên đổi số; khi tránh nhau ban đêm, phải tắt đèn pha bật đèn cốt.",
+                "Khi tránh nhau ban đêm, phải thường xuyên bật đèn pha tắt đèn cốt.",
+                "Cả ý 1 và ý 2."
+            ]
+        },
+        {
+            "name": "Câu hỏi 15 :",
+            "content": "Khi động cơ ô tô đã khởi động, bảng đồng hồ xuất hiện ký hiệu như hình vẽ dưới đây, báo hiệu tình trạng như thế nào của xe ô tô? ",
+            "image": "/images/q293.png",
+            "answers": [
+                "Báo hiệu hệ thống chống bó cứng khi phanh bị lỗi.",
+                "Áp suất lốp không đủ.",
+                "Đang hãm phanh tay.",
+                "Cần kiểm tra động cơ."
+            ]
+        },
+        {
+            "name": "Câu hỏi 16 :",
+            "content": "Biển nào cấm xe rẽ trái? ",
+            "image": "/images/q318.png",
+            "answers": [
+                "Biển 1.",
+                "Biển 2.",
+                "Cả hai biển."
+            ]
+        },
+        {
+            "name": "Câu hỏi 17 :",
+            "content": "Biển nào là biển “Cấm đi ngược chiều”? ",
+            "image": "/images/q329.png",
+            "answers": [
+                "Biển 1.",
+                "Biển 2.",
+                "Cả ba biển."
+            ]
+        },
+        {
+            "name": "Câu hỏi 18 :",
+            "content": "Khi gặp các biển này xe ưu tiên theo luật định (có tải trọng hay chiều cao toàn bộ vượt quá chỉ số ghi trên biển) có được phép đi qua hay không? ",
+            "image": "/images/q340.png",
+            "answers": [
+                "Được phép.",
+                "Không được phép."
+            ]
+        },
+        {
+            "name": "Câu hỏi 19 :",
+            "content": "Khi gặp biển này, xe mô tô ba bánh có được phép rẽ trái hoặc rẽ phải hay không? ",
+            "image": "/images/q348.png",
+            "answers": [
+                "Được phép.",
+                "Không được phép."
+            ]
+        },
+        {
+            "name": "Câu hỏi 20 :",
+            "content": "Gặp biển này, xe ô tô sơ mi rơ moóc có chiều dài toàn bộ kể cả xe, moóc và hàng lớn hơn trị số ghi trên biển có được phép đi vào không? ",
+            "image": "/images/q360.png",
+            "answers": [
+                "Không được phép.",
+                "Được phép."
+            ]
+        },
+        {
+            "name": "Câu hỏi 21 :",
+            "content": "Biển nào báo hiệu “Đường dành cho xe thô sơ”? ",
+            "image": "/images/q373.png",
+            "answers": [
+                "Biển 1.",
+                "Biển 2.",
+                "Biển 3."
+            ]
+        },
+        {
+            "name": "Câu hỏi 22 :",
+            "content": "Biển nào báo hiệu “Giao nhau với đường sắt có rào chắn”? ",
+            "image": "/images/q375.png",
+            "answers": [
+                "Biển 1.",
+                "Biển 2 và 3.",
+                "Biển 3."
+            ]
+        },
+        {
+            "name": "Câu hỏi 23 :",
+            "content": "Trong các biển dưới đây biển nào là biển “Hết tốc độ tối đa cho phép”? ",
+            "image": "/images/q439.png",
+            "answers": [
+                "Biển 1.",
+                "Biển 2.",
+                "Biển 3",
+                "Cả ba biển."
+            ]
+        },
+        {
+            "name": "Câu hỏi 24 :",
+            "content": "Biển nào dưới đây báo hiệu hết cấm vượt? ",
+            "image": "/images/q442.png",
+            "answers": [
+                "Biển 1.",
+                "Biển 2.",
+                "Biển 3.",
+                "Biển 2 và 3."
+            ]
+        },
+        {
+            "name": "Câu hỏi 25 :",
+            "content": "Biển nào chỉ dẫn địa giới hành chính giữa các thành phố, tỉnh, huyện? ",
+            "image": "/images/q460.png",
+            "answers": [
+                "Biển 1.",
+                "Biển 2.",
+                "Biển 3."
+            ]
+        },
+        {
+            "name": "Câu hỏi 26 :",
+            "content": "Theo tín hiệu đèn, xe tải đi theo hướng nào là đúng quy tắc giao thông? ",
+            "image": "/images/q502.png",
+            "answers": [
+                "Hướng 2, 3, 4.",
+                "Chỉ hướng 1.",
+                "Hướng 1 và 2.",
+                "Hướng 3 và 4."
+            ]
+        },
+        {
+            "name": "Câu hỏi 27 :",
+            "content": "Xe nào phải nhường đường trong trường hợp này? ",
+            "image": "/images/q516.png",
+            "answers": [
+                "Xe khách.",
+                "Xe tải."
+            ]
+        },
+        {
+            "name": "Câu hỏi 28 :",
+            "content": "Những hướng nào ô tô tải được phép đi? ",
+            "image": "/images/q523.png",
+            "answers": [
+                "Chỉ hướng 1.",
+                "Hướng 1 và 4.",
+                "Hướng 1 và 5.",
+                "Hướng 1, 4 và 5."
+            ]
+        },
+        {
+            "name": "Câu hỏi 29 :",
+            "content": "Trong hình dưới đây, xe nào chấp hành đúng quy tắc giao thông? ",
+            "image": "/images/q538.png",
+            "answers": [
+                "Chỉ xe khách, mô tô.",
+                "Tất cả các loại xe trên.",
+                "Không xe nào chấp hành đúng quy tắc giao thông."
+            ]
+        },
+        {
+            "name": "Câu hỏi 30 :",
+            "content": "Trong hình dưới, những xe nào vi phạm quy tắc giao thông? ",
+            "image": "/images/q543.png",
+            "answers": [
+                "Xe con (E), mô tô (C).",
+                "Xe tải (A), mô tô (D).",
+                "Xe khách (B), mô tô (C).",
+                "Xe khách (B), mô tô (D)."
+            ]
+        },
+        {
+            "name": "Câu hỏi 31 :",
+            "content": "Xe nào phải nhường đường là đúng quy tắc giao thông? ",
+            "image": "/images/q546.png",
+            "answers": [
+                "Xe con (A).",
+                "Xe con (B)."
+            ]
+        },
+        {
+            "name": "Câu hỏi 32 :",
+            "content": "Người lái xe có thể quay đầu xe như thế nào là đúng quy tắc giao thông? ",
+            "image": "/images/q550.png",
+            "answers": [
+                "Quay đầu theo hướng A.",
+                "Quay đầu theo hướng B.",
+                "Cấm quay đầu."
+            ]
+        },
+        {
+            "name": "Câu hỏi 33 :",
+            "content": "Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ? ",
+            "image": "/images/q568.png",
+            "answers": [
+                "Xe của bạn, mô tô, xe con.",
+                "Xe con, xe của bạn, mô tô.",
+                "Mô tô, xe con, xe của bạn."
+            ]
+        },
+        {
+            "name": "Câu hỏi 34 :",
+            "content": "Bạn xử lý như thế nào trong trường hợp này? ",
+            "image": "/images/q572.png",
+            "answers": [
+                "Tăng tốc độ, rẽ phải trước xe tải và xe đạp.",
+                "Giảm tốc độ, rẽ phải sau xe tải và xe đạp.",
+                "Tăng tốc độ, rẽ phải trước xe đạp."
+            ]
+        },
+        {
+            "name": "Câu hỏi 35 :",
+            "content": "Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ? ",
+            "image": "/images/q589.png",
+            "answers": [
+                "Xe con, xe tải, xe của bạn.",
+                "Xe tải, xe con, xe của bạn.",
+                "Xe tải, xe của bạn, xe con."
+            ]
+        }
+    ]
+}
