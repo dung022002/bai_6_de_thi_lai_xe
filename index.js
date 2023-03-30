@@ -19,14 +19,14 @@ async function run() {
 
     })
     // kiểm tra thư mục tồn tại hay chưa
-    if (fs.existsSync('./Bo_de_thi_ly_thuyet')) {
+    if (fs.existsSync('./testFolder')) {
 
         // xóa thư mục nếu đã tồn tại
-        fs.rmSync('./Bo_de_thi_ly_thuyet', { recursive: true })
+        fs.rmSync('./testFolder', { recursive: true })
     }
 
     // tạo 1 thư mục mới
-    fs.mkdirSync('./Bo_de_thi_ly_thuyet')
+    fs.mkdirSync('./testFolder')
 
 
     if (fs.existsSync('public/images')) {
@@ -74,7 +74,7 @@ async function run() {
                 const nameImg = imgLink.split('https://i-vnexpress.vnecdn.net/2020/09/04/')[1];
                 pathImg = '/images/' + nameImg;
 
-                axios({
+                await axios({
                     url: imgLink,
                     responseType: 'stream',
                 }).then(res => {
